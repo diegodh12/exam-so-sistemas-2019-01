@@ -1,1 +1,17 @@
 
+hilo 1
+0.376
+0.364
+0.331
+0.335
+0.365
+Hilo 2
+0.831
+0.392
+0.759
+0.399
+0.395
+Cómo podemos ver el hilo1 que cierra la puerta antes del for y después del for es más rápido que el hilo2 que abre la puerta al
+antes de hacer el incremento y la cierra después de hacer el incremento en el for es más rapido debido a qué en solo abre y cierra
+la puerta una vez en cambio el hilo2 abre y cierra la puerta en cada ciclo en que se ejecuta el for por lo cual esto lo hace más ineficiente
+comparado con el hilo1 ya que tiene que hacer más procesos que el hilo1.
