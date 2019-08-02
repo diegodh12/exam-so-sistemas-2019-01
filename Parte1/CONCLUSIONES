@@ -1,4 +1,6 @@
 
+el argumento que se uso como entrada es n=500 ./thread 500 && ./thread2 500
+
 hilo 1
 0.376
 0.364
